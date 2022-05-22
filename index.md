@@ -11,12 +11,12 @@ sections:
       subtitle: This is hero subtite!
       background: /images/hero-banner.png
       key_highlights:
+        - title: Highlight A
+          description: Important highlight A
+          url: https://google.com
         - title: Highlight B
-          description: Important highlight B is equally important
+          description: Important highlight B
           url: https://gmail.com
-        - title: Page B
-          description: Page B is important too
-          url: /privacy/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
