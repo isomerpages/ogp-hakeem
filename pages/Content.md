@@ -7,7 +7,7 @@ description: ""
 
 ![This is a picture of a beach in Perth, Australia.](/images/perth-beach.jpg)
 
-[haha](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[Free Bitcoin](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 <html>
@@ -41,5 +41,3 @@ table, th, td {
 
 </body>
 </html>
-
-
