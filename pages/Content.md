@@ -16,15 +16,15 @@ description: ""
 
 </div>
 
-
-
 <br>
+
+
 <html>
 	
 <head>
 <style>
 table, th, td {
-  border: 1px solid black;
+  border: 1px solid grey;
   border-collapse: collapse;
 }
 </style>
