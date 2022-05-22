@@ -23,4 +23,10 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - infobar:
+      title: Infobar Title 2
+      subtitle: Infobar Subtitle 2
+      description: Add another Infobar section and place it under the existing infobar
+        in Home page
+      button: Button Text
 ---
