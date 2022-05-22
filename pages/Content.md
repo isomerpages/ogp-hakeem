@@ -7,11 +7,8 @@ description: ""
 
 ![This is a picture of a beach in Perth, Australia.](/images/perth-beach.jpg)
 
-[Free Bitcoin](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
 
 <div class="bp-youtube">
-
 
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/szkPJuDV9Kg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
